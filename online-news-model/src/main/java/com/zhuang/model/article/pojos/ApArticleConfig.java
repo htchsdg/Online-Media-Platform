@@ -13,8 +13,6 @@ import java.io.Serializable;
  * <p>
  * APP已发布文章配置表
  * </p>
- *
- * @author itheima
  */
 
 @Data

@@ -6,13 +6,6 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * <p>
- * 
- * </p>
- *
- * @author itheima
- */
 @Data
 @TableName("taskinfo_logs")
 public class TaskinfoLogs implements Serializable {

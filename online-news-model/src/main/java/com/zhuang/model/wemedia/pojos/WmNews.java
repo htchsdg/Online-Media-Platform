@@ -14,8 +14,6 @@ import java.util.Date;
  * <p>
  * 自媒体图文内容信息表
  * </p>
- *
- * @author itheima
  */
 @Data
 @TableName("wm_news")

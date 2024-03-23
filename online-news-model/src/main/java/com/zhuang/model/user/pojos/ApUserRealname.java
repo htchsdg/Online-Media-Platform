@@ -13,8 +13,6 @@ import java.util.Date;
  * <p>
  * APP实名认证信息表
  * </p>
- *
- * @author itheima
  */
 @Data
 @TableName("ap_user_realname")

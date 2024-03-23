@@ -13,8 +13,6 @@ import java.util.Date;
  * <p>
  * 频道信息表
  * </p>
- *
- * @author itheima
  */
 @Data
 @TableName("wm_channel")

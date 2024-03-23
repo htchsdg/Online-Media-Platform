@@ -12,8 +12,6 @@ import java.io.Serializable;
  * <p>
  * 自媒体图文引用素材信息表
  * </p>
- *
- * @author itheima
  */
 @Data
 @TableName("wm_news_material")

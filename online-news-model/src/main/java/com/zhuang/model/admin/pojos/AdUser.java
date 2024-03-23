@@ -11,8 +11,6 @@ import java.util.Date;
  * <p>
  * 管理员用户信息表
  * </p>
- *
- * @author itheima
  */
 @Data
 @TableName("ad_user")

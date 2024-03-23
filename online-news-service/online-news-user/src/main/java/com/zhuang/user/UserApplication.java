@@ -9,8 +9,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-@MapperScan("com.heima.user.mapper")
-@EnableFeignClients(basePackages = "com.heima.apis")
+@MapperScan("com.zhuang.user.mapper")
+@EnableFeignClients(basePackages = "com.zhuang.apis")
 public class UserApplication {
 
     public static void main(String[] args) {

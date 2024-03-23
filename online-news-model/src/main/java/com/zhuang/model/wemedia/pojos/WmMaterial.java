@@ -13,8 +13,6 @@ import java.util.Date;
  * <p>
  * 自媒体图文素材信息表
  * </p>
- *
- * @author itheima
  */
 @Data
 @TableName("wm_material")

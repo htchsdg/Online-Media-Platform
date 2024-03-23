@@ -10,7 +10,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 @EnableDiscoveryClient
 @ServletComponentScan
-@EnableFeignClients(basePackages = "com.heima.apis")
+@EnableFeignClients(basePackages = "com.zhuang.apis")
 public class CommentApplication {
 
     public static void main(String[] args) {

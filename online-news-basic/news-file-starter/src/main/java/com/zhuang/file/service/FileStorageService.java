@@ -2,9 +2,6 @@ package com.zhuang.file.service;
 
 import java.io.InputStream;
 
-/**
- * @author itheima
- */
 public interface FileStorageService {
 
 

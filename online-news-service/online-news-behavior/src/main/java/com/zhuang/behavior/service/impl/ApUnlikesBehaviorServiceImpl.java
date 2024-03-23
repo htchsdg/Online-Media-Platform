@@ -17,8 +17,6 @@ import org.springframework.stereotype.Service;
  * <p>
  * APP不喜欢行为表 服务实现类
  * </p>
- *
- * @author itheima
  */
 @Slf4j
 @Service

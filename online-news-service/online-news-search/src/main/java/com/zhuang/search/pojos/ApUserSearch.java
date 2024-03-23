@@ -9,8 +9,6 @@ import java.util.Date;
 /**
  * <p>
  * APP用户搜索信息表
- * </p>
- * @author itheima
  */
 @Data
 @Document("ap_user_search")

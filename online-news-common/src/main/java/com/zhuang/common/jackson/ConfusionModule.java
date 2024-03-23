@@ -8,7 +8,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class ConfusionModule extends Module {
 
     public final static String MODULE_NAME = "jackson-confusion-encryption";
-    public final static Version VERSION = new Version(1,0,0,null,"heima",MODULE_NAME);
+    public final static Version VERSION = new Version(1,0,0,null,"zhuang",MODULE_NAME);
 
     @Override
     public String getModuleName() {

@@ -7,7 +7,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 
 @SpringBootApplication
-@MapperScan("com.heima.admin.mapper")
+@MapperScan("com.zhuang.admin.mapper")
 @EnableDiscoveryClient
 public class AdminApplication {
 
